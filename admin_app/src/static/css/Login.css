@@ -1,0 +1,11 @@
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+}
+body{
+    height: 100vh;
+    background-color: #f0f0f0;
+    background: url("https://w.wallhaven.cc/full/e7/wallhaven-e7kejr.jpg") no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
